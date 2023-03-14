@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felipe Durães ✌️
-### Sou Desenvolvedor Front-End e estou Cursando Sistemas da Informação no Instituto Federal do Norte de Minas Gerais(IFNMG)
+ Sou Desenvolvedor Front-End e estou Cursando Sistemas da Informação no Instituto Federal do Norte de Minas Gerais(IFNMG)
 
-### Meus contatos:
+ Meus contatos:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dur%C3%A3es-4b7aba15b/)
@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebduraes&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo
+ Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
