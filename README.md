@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebduraes@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebduraes&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebduraes&show_icons=true&theme=dracula&locale=pt-br)
 
  Tecnologias que utilizo
 
