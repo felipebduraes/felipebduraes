@@ -1,5 +1,5 @@
 # Olá! Eu sou Felipe Durães ✌️
- Sou Desenvolvedor Front-End e estou Cursando Sistemas da Informação no Instituto Federal do Norte de Minas Gerais(IFNMG)
+ Sou Desenvolvedor Front-End e estou Cursando Sistemas de Informação no Instituto Federal do Norte de Minas Gerais(IFNMG)
 
  Meus contatos:
 
