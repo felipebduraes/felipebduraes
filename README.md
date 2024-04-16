@@ -1,5 +1,7 @@
 # Olá! Eu sou Felipe Durães ✌️
- Sou Desenvolvedor Front-End e estou cursando Sistemas de Informação no Instituto Federal do Norte de Minas Gerais(IFNMG)
+ Sou Desenvolvedor Back-end e atualmente trabalho com Python
+ Também estou estudando PHP e Javascript
+ 
 
  Meus contatos:
 
@@ -20,7 +22,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-E63027?style=for-the-badge&logo=angular&logoColor=white"/>
- <img align="center" alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
  
