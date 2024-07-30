@@ -47,8 +47,8 @@
  <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 
  ### Bootcamps e Certificações:
- [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>](https://www.dio.me/certificate/55594137/share)
- [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>](https://www.dio.me/certificate/AUCHXJTC/share)
+ [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="70"></a>](https://www.dio.me/certificate/55594137/share)
+ [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70"></a>](https://www.dio.me/certificate/AUCHXJTC/share)
  
 
  
