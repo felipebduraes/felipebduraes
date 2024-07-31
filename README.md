@@ -22,6 +22,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebduraes&show_icons=true&theme=dracula&locale=pt-br)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 ## Tecnologias que utilizo
 
 ### Linguagens de programação:
