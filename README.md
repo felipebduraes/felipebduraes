@@ -52,6 +52,7 @@
  [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="70" title="Bootcamp Programação do Zero"></a>](https://www.dio.me/certificate/55594137/share)
  [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70" title="Bootcamp Fundamentos de I.A para Devs"></a>](https://www.dio.me/certificate/AUCHXJTC/share)
  [<img src="https://aprendamais.mec.gov.br/pluginfile.php/57/mod_folder/content/0/apenda_mais-02.png" height="70" title="Curso Inglês I"></a>](https://aprendamais.mec.gov.br/mod/simplecertificate/view.php?id=59537&action=get)
+ [<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="70" title="Bootcamp Microsoft Copilot AI"></a>](https://www.dio.me/certificate/MATSZ2IZ/share)
 
  
 </div>
