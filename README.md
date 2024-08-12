@@ -26,28 +26,31 @@
 
 ## Tecnologias que utilizo
 
-### Linguagens de programação:
+### 📋 Languages:
 <div style="display: inline_block"><br/>
  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
  <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
  
  
- ### Banco de Dados:
+ ### 💾 Databases:
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
- ### Frameworks:
+ ### 📚 Frameworks, Platforms and Libraries:
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-E63027?style=for-the-badge&logo=angular&logoColor=white"/>
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="center" alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
  <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+ 
 
- ### Bootcamps e Certificações:
+ ### Bootcamps:
  [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="70" title="Bootcamp Programação do Zero"></a>](https://www.dio.me/certificate/55594137/share)
  [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70" title="Bootcamp Fundamentos de I.A para Devs"></a>](https://www.dio.me/certificate/AUCHXJTC/share)
  [<img src="https://aprendamais.mec.gov.br/pluginfile.php/57/mod_folder/content/0/apenda_mais-02.png" height="70" title="Curso Inglês I"></a>](https://aprendamais.mec.gov.br/mod/simplecertificate/view.php?id=59537&action=get)
