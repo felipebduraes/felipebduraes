@@ -1,19 +1,17 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Olá, Eu sou Felipe Durães!+&#x1F4BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Hi, I'm Felipe Durães!+&#x1F4BB" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center">
 
 
- 💬 Sou Desenvolvedor Back-end e atualmente trabalho com Python
+ 💬 I am a Back-end Developer and currently work with Python.
 
- 
- 💬 Também estou estudando Java e Kotlin com foco em desenvolvimento Android
- 
+ 💬 I am also studying Java and Kotlin, focusing on Android development.
 
- Meus contatos:
+ My contacts:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeduraes/)
@@ -24,7 +22,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-## Tecnologias que utilizo
+## Technologies
 
 ### 📋 Languages:
 <div style="display: inline_block"><br/>
