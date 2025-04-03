@@ -7,7 +7,7 @@
 <div align="center">
 
 
- 💬 I am a Back-end Developer and currently work with Python.
+ 💬 I am a Mobile Developer
 
  💬 I am also studying Java and Kotlin, focusing on Android development.
 
