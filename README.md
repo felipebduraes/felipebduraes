@@ -31,8 +31,6 @@
  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-
- 
  
  ### 💾 Databases:
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -44,6 +42,10 @@
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-E63027?style=for-the-badge&logo=angular&logoColor=white"/>
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
+ ### Others:
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  
 
  ### Bootcamps and Certifications:
