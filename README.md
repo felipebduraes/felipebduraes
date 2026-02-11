@@ -3,12 +3,9 @@
 </p>
 <div align="center">
 
+I'm currently deepening my expertise in **Java** and **C#**, with a strong focus on **Full Stack development**.
 
- 💬 I am a Mobile Developer
-
- 💬 I am also studying Java and Kotlin, focusing on Android development.
-
- My contacts:
+**Connect with me:**
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeduraes/)
