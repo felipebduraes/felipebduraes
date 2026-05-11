@@ -12,8 +12,6 @@ I'm currently deepening my expertise in **Java** and **C#**, with a strong focus
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebduraes@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebduraes&show_icons=true&theme=dracula&locale=pt-br)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ## Technologies
@@ -21,8 +19,7 @@ I'm currently deepening my expertise in **Java** and **C#**, with a strong focus
 ### 📋 Languages:
 <div style="display: inline_block"><br/>
  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img align="center" alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
- <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
  
@@ -32,13 +29,11 @@ I'm currently deepening my expertise in **Java** and **C#**, with a strong focus
  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
  ### 📚 Frameworks, Platforms and Libraries:
- <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
- <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-E63027?style=for-the-badge&logo=angular&logoColor=white"/>
- <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img align="center" alt=".NET" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  
  ### Others:
  <img align="center" alt="Spring" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
- <img align="center" alt="Spring" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
  <img align="center" alt="Spring" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  
 
